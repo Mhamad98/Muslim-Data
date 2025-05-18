@@ -45,9 +45,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  path_provider_foundation: 080d55be775b7414fd5a5ef3ac137b97b097e564
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
   sqlite3: fc1400008a9b3525f5914ed715a5d1af0b8f4983
-  sqlite3_flutter_libs: f6acaa2172e6bb3e2e70c771661905080e8ebcf2
+  sqlite3_flutter_libs: 487032b9008b28de37c72a3aa66849ef3745f3e6
 
 PODFILE CHECKSUM: 4305caec6b40dde0ae97be1573c53de1882a07e5
 
